@@ -14,6 +14,12 @@ Por isso, resolvi criar este repositório com uma lista de pendências e falhas 
 * Enviando novas pendências :smile:
 * Tente *replicar* as inconsistências em **outras instituições** (inclusive as que já foram **"fechadas"**)
 
+## Você é desenvolvedor? Participe no Discord!
+
+<a href="https://discord.gg/mJGzEEPctr"><img alt="Discord PIX Brasil" src="https://discord.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" height="80px"></a>
+
+Obs: o mantenedor deste repositório e o criador do grupo do Discord não são a mesma pessoa. :)
+
 ## Doação
 
 Para doação ao idealizador e mantenedor do repositório via Pix:
