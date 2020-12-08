@@ -1,11 +1,18 @@
 # Pix-Pendências
 
-Não vejo sentido em ficarmos abrindo reclamações/denúncias no Sistema de Registro de Demandas do Cidadão (RDR) do Banco Central para os PSPs (Prestadores de Serviços de Pagamentos) individualmente, devido o grande fluxo de registros repetidos para um mesmo problema, que acabam atrasando a resolução em vez de agilizar - e o que mais queremos neste momento é a célere adequação de todos os PSPs aos regulamentos do Pix, aderindo ao padrão de operação e garantindo a perfeita interoperabilidade entre todos.
+<img alt="" src="https://raw.githubusercontent.com/renatofrota/pix-pendencias/main/octopix.png">
 
-Por isso, resolvi criar este repositório com uma lista de pendências e falhas de implementação da API e de outros procedimentos relativos a operação do Pix. Assim podemos concentrar num só local o que não está funcionando adequadamente e marcar os PSPs que estão pendentes a efetuar cada adequação.
+Repositório com lista de pendências e falhas de implementação da API e de outros procedimentos relativos a operação do Pix.
 
-## Ver lista de pendências (issues)
+Quem conhecer, favor comunicar aos desenvolvedores envolvidos de cada PSP.
 
+## Panorama geral de operação e interoperabilidade
+
+[Clique aqui](https://github.com/renatofrota/pix-pendencias/issues/22)
+
+## Lista completa de pendências
+
+* Por PSP/tipo: [Clique aqui](https://github.com/renatofrota/pix-pendencias/labels)
 * Abertas: [Clique aqui](https://github.com/renatofrota/pix-pendencias/issues)
 * Fechadas: [Clique aqui](https://github.com/renatofrota/pix-pendencias/issues?q=is%3Aissue+is%3Aclosed)
 
