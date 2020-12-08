@@ -1,4 +1,4 @@
-# pix-pendencias
+# Pix-Pendências
 
 Não vejo sentido em ficarmos abrindo reclamações/denúncias no Sistema de Registro de Demandas do Cidadão (RDR) do Banco Central para os PSPs (Prestadores de Serviços de Pagamentos) individualmente, devido o grande fluxo de registros repetidos para um mesmo problema, que acabam atrasando a resolução em vez de agilizar - e o que mais queremos neste momento é a célere adequação de todos os PSPs aos regulamentos do Pix, aderindo ao padrão de operação e garantindo a perfeita interoperabilidade entre todos.
 
@@ -22,6 +22,6 @@ Obs: o mantenedor deste repositório e o criador do grupo do Discord não são a
 
 ## Doação
 
-Para doação ao idealizador e mantenedor do repositório via Pix:
+Para doação ao idealizador e mantenedor do repositório Pix-Pendências, [clique aqui](https://pix.ae/fatura/DsvZKLcAzoyEzoyOIY4yTHvbwVy12ohWPYvZKLcAzodBZMhITHgtKnDOlowB8cQU2oRWvBv8zMhyzVfVFoiAzYfyJLgqTDuE3olM2o0SzoyWaV6VFM2STnwWlr).
 
-<img alt="Doação" src="https://raw.githubusercontent.com/renatofrota/pix-pendencias/main/doacao.png">
+Para doação ao idealizador e mantenedor do servidor Discord Pix Brasil, [clique aqui](https://pix.ae/fatura/DsvjHFGSxHPOPEF90DGyREttIFDWvBvHJoi5zVfVPGWAIDFWRVRW1GQAIFROPJWOyV6Vloz5JnvjvVZy0HOWyDRW1GQAIFRuIFDWvBvDJn4EaVfVPMkRJBjLQB0pmLlpGYkRzM40FZmDQAgNGZyWGYwuQAvEzAkRzV6VFM2STnwWlr).
