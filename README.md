@@ -4,7 +4,9 @@
 
 Repositório com lista de pendências e falhas de implementação da API e de outros procedimentos relativos a operação do Pix.
 
-Quem conhecer, favor comunicar aos desenvolvedores envolvidos de cada PSP.
+Listado no Github oficial do BACEN: https://github.com/bacen/pix-api/issues/200
+
+Quem conhecer desenvolvedores envolvidos com o Pix em cada PSP, favor comunicá-los da existência deste repositório.
 
 ## Panorama geral de operação e interoperabilidade
 
