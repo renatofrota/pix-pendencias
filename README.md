@@ -25,7 +25,7 @@ Quem conhecer desenvolvedores envolvidos com o Pix em cada PSP, favor comunicá-
 
 ## Você é desenvolvedor? Participe no Discord!
 
-<a href="https://discord.gg/mJGzEEPctr"><img alt="Discord PIX Brasil" src="https://discord.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" height="80px"></a>
+<a href="https://bit.ly/pix-brasil-discord"><img alt="Discord PIX Brasil" src="https://discord.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" height="80px"></a>
 
 Obs: o mantenedor deste repositório e o criador do grupo do Discord não são a mesma pessoa. :)
 
