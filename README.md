@@ -27,10 +27,4 @@ Quem conhecer desenvolvedores envolvidos com o Pix em cada PSP, favor comunicá-
 
 <a href="https://bit.ly/pix-brasil-discord"><img alt="Discord PIX Brasil" src="https://discord.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" height="80px"></a>
 
-Obs: o mantenedor deste repositório e o criador do grupo do Discord não são a mesma pessoa. :)
-
-## Doação
-
-Para doação ao idealizador e mantenedor do repositório Pix-Pendências, [clique aqui](https://pix.ae/fatura/DsvZKLcAzoyEzoyOIY4yTHvbwVy12ohWPYvZKLcAzodBZMhITHgtKnDOlowB8cQU2oRWvBv8zMhyzVfVFoiAzYfyJLgqTDuE3olM2o0SzoyWaV6VFM2STnwWlr).
-
-Para doação ao idealizador e mantenedor do servidor Discord Pix Brasil, [clique aqui](https://pix.ae/fatura/DsvjHFGSxHPOPEF90DGyREttIFDWvBvHJoi5zVfVPGWAIDFWRVRW1GQAIFROPJWOyV6Vloz5JnvjvVZy0HOWyDRW1GQAIFRuIFDWvBvDJn4EaVfVPMkRJBjLQB0pmLlpGYkRzM40FZmDQAgNGZyWGYwuQAvEzAkRzV6VFM2STnwWlr).
+Obs: o grupo do Discord não foi criado por mim.
